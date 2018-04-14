@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarketCap.Reader", "CoinMarketCap.Reader\CoinMarketCap.Reader.csproj", "{316874BC-89A0-42F9-8B9B-845A59788A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryEx", "QueryEx\QueryEx.csproj", "{070ACC5E-4F4D-4FE1-9757-1793207C3694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316874BC-89A0-42F9-8B9B-845A59788A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316874BC-89A0-42F9-8B9B-845A59788A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316874BC-89A0-42F9-8B9B-845A59788A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316874BC-89A0-42F9-8B9B-845A59788A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070ACC5E-4F4D-4FE1-9757-1793207C3694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070ACC5E-4F4D-4FE1-9757-1793207C3694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070ACC5E-4F4D-4FE1-9757-1793207C3694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070ACC5E-4F4D-4FE1-9757-1793207C3694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
